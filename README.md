@@ -1,4 +1,4 @@
-Link demo: https://pwebhahaasik.000webhostapp.com/<br><br>
+Website Link : https://pwebhahaasik.000webhostapp.com/<br><br>
 Admin Account<br>
 email : admin@gmail.com<br>
 password : 12345678<br>
